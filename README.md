@@ -81,7 +81,8 @@ Simulated common attacks to test detection:
 ## 📄 Full Project Report
 
 Read the full project documentation here:  
-📎 [`docs/report.pdf`](docs/report.pdf)
+📎 ![image](https://github.com/user-attachments/assets/b97b1320-6d10-4013-97c6-539066abbc3c)
+
 
 ---
 
